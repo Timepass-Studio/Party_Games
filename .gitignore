@@ -10,3 +10,8 @@ sourcemap.json
 # Wally package directories
 /Packages/
 /ServerPackages/
+
+/rokit.toml
+/selene.toml
+/wally.toml
+/wally.lock
