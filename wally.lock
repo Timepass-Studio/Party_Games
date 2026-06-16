@@ -3,11 +3,14 @@
 registry = "test"
 
 [[package]]
+<<<<<<< HEAD
 name = "adnand/robloxprojects"
 version = "0.1.0"
 dependencies = [["Networker", "leifstout/networker@0.3.1"], ["Promise", "evaera/promise@4.0.0"], ["ProfileService", "firebird702/profileservice@1.1.0"]]
 
 [[package]]
+=======
+>>>>>>> 83ab5a3ab630fe244391d5eebef64b46a2a0f3ed
 name = "evaera/promise"
 version = "4.0.0"
 dependencies = []
@@ -18,9 +21,25 @@ version = "1.1.0"
 dependencies = []
 
 [[package]]
+<<<<<<< HEAD
 name = "leifstout/networker"
 version = "0.3.1"
 dependencies = [["Signal", "sleitnick/signal@2.0.3"]]
+=======
+name = "ginger/roblox"
+version = "0.1.0"
+dependencies = [["Janitor", "howmanysmall/janitor@1.18.3"], ["Promise", "evaera/promise@4.0.0"], ["Signal", "sleitnick/signal@2.0.3"], ["ProfileService", "firebird702/profileservice@1.1.0"]]
+
+[[package]]
+name = "howmanysmall/janitor"
+version = "1.18.3"
+dependencies = [["Promise", "howmanysmall/typed-promise@4.0.6"]]
+
+[[package]]
+name = "howmanysmall/typed-promise"
+version = "4.0.6"
+dependencies = [["Promise", "evaera/promise@4.0.0"]]
+>>>>>>> 83ab5a3ab630fe244391d5eebef64b46a2a0f3ed
 
 [[package]]
 name = "sleitnick/signal"
