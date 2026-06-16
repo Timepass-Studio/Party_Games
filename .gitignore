@@ -1,19 +1,12 @@
 # Project place file
-<<<<<<< HEAD
-/RobloxProjects.rbxlx
-=======
 /Roblox.rbxlx
->>>>>>> 83ab5a3ab630fe244391d5eebef64b46a2a0f3ed
 
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
 
 sourcemap.json
-<<<<<<< HEAD
-=======
 
 # Wally package directories
 /Packages/
 /ServerPackages/
->>>>>>> 83ab5a3ab630fe244391d5eebef64b46a2a0f3ed

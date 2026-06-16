@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-print("Hello world, from client!")
-=======
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
@@ -448,4 +445,3 @@ UIEvent.OnClientEvent:Connect(function(actionType, data)
 end)
 
 print("[HUD UI] Initialized successfully!")
->>>>>>> 83ab5a3ab630fe244391d5eebef64b46a2a0f3ed

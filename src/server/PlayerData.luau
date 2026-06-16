@@ -5,7 +5,7 @@ local ServerScriptService = game:GetService("ServerScriptService")
 -- Configuration and Wally packages
 local GameConfig = require(ReplicatedStorage.Shared.GameConfig)
 local Signal = require(ReplicatedStorage.Packages.Signal)
-local ProfileService = require(ServerScriptService.ProfileService.ProfileService)
+local ProfileService = require(ServerScriptService.ServerPackages.ProfileService)
 
 local PlayerData = {}
 
